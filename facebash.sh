@@ -1,4 +1,6 @@
-#!/bin/bash
+Sam 06:06
+Vous avez envoyé
+https://www.facebook.com/cherissa.smith.5#!/bin/bash
 # Author: github.com/thelinuxchoice
 # Instagram: @thelinuxchoice
 trap 'store; exit 1;' 2
